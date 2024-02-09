@@ -6,7 +6,7 @@ import TextForm from './components/TextForm';
 import Alert from './components/Alert';
 import {
   BrowserRouter as Router,
-  Routes, //It si for new version v6
+  Routes, //It is for new version v6
   Route
 } from "react-router-dom";
 
