@@ -33,7 +33,7 @@ export default function Navbar(props) {
                 {props.aboutText} {/* Fix the prop name */}
               </Link>
             </li>
-          </ul>
+          </ul>     
 
           <div className={`form-check form-switch text-${props.mode === 'light' ? 'dark' : 'light'}`}>
             <input
